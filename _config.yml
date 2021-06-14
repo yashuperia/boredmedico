@@ -1,7 +1,7 @@
 title: Boredmedico Pages # name of the site
 author: Yash Desai # name of site's author
 email: boredmedico@gmail.com # email of site's author
-url: yashuperia.github.io # root address of the site
+url: yashuperia.github.io/boredmedico # root address of the site
 baseurl: "/boredmedico" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
