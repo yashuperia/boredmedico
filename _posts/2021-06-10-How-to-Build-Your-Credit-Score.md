@@ -4,6 +4,8 @@ category: finance
 published: true
 ---
 
+# How to build your credit score, starting with secured Credit Cards
+
 ### Why do you need a credit score?
 
 A good credit score makes you eligible to avail many financial services including Credit Card. More often if used responsibly these services may offer you many advantages and perks, for example, free miles for air travel, free hostel stay, discounts on gas/petrol, free launge access in many aiports.

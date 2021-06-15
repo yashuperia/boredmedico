@@ -5,16 +5,22 @@ entries:
   - title: navigation
     entries:
       - title: <a href='/about.html'>about me</a>
-  - title: all posts
+      - title: <a href='/archive.html'>archive</a>
+  - title: Recent posts
     post_list:
       limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-
-  - title: posts by category
+  - title: posts by Finance
     post_list:
-      category: example2
+      category: finance
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
+  - title: posts by Productivity
+    post_list:
+      category: productivity
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
