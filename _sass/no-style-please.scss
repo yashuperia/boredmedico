@@ -36,11 +36,14 @@ html, body { background: #f8f9fa; }
 html { height: 100%; }
 
 a {
-  text-decoration: none;
   color: #84a34a;
 }
 a:hover {
   color: #336c86;
+}
+
+h1 {
+    text-align: center;
 }
 
 body {
@@ -108,7 +111,7 @@ blockquote {
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   display: block;
   margin: 0 auto;
 }
