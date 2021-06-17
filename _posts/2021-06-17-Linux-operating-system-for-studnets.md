@@ -1,11 +1,12 @@
 ---
 layout: post
 category: tools
+published: true
 ---
 
 ### Why use linux os as a student?
 
-[Forbes-elementaryOS-image](/assets/images/forbes-elementary.jpg)
+![Forbes-elementaryOS-image](/assets/images/forbes-elementary.jpg)
 
 1. Linux is **free** OS, Downloading and installing it on your computer doesn't require a licence or activation key. And most applications on linux are open-source with no fees/charges and they are as good as and sometimes better than paid ones on other OS.
 So as a student when you may not be able to afford the latest and greatest computer,  you can use an old computer with linux on it. Or purchase very budget friendly computer without OS and use linux on it!.
@@ -13,7 +14,7 @@ So as a student when you may not be able to afford the latest and greatest compu
 3. **No. Ads, Malwares** There are almost none chances of ads, malware, ransomware on Linux. These occur frequently on windows if you are not careful. Almost all of us have encountered that unknown extension that gets installed on our Chrome browser and doesn't go away, that never happens on Linux.
 4. **Easy to use**. If you know android you will like Linux very much. In fact, Android OS is derived from Linux. It is simple to use, with understandable settings, and less clutter (bloatware). Most of the distributions come with essential tools pre-installed. like Video player, Office apps, PDF reader, music player, calculator, etc. You won't have to download much.
 
-![some-manjaro-menuscreen](/assets/image/linux-sample.jpg)
+![some-manjaro-menuscreen](/assets/images/linux-sample.jpg)
 
 5. **Customizability** Linux is available as different distributions like Ubuntu, Fedora, ElementaryOS, KDE-Neon, ArchLinux, and many more. You can choose from any one of these as per your taste and requirements. for example;
     - Ubuntu: if you want complete well-rounded os
