@@ -42,9 +42,9 @@ a:hover {
   color: #336c86;
 }
 
-h1 {
-    text-align: center;
-}
+//h1 {
+    //text-align: center;
+//}
 
 body {
   color: black;
@@ -110,10 +110,25 @@ blockquote {
   p { margin: 0; }
 }
 
+.circular--portrait {
+  position: relative;
+  text-align: center;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 2.5%;
+}
+
+.circular--portrait img {
+  width: 100%;
+  height: auto;
+}
+
 img {
-  max-width: 50%;
+  max-width: 100%;
   display: block;
   margin: 0 auto;
+  border-radius: 1.5%;
 }
 
 @media (max-width : 574px){

@@ -4,8 +4,8 @@ category: finance
 published: true
 ---
 
-<!--# How to build your credit score, starting with secured Credit Cards-->
-# HOW TO BUILD YOUR CREDIT SCORE STARTING WITH SECURED CREDIT CARDS
+<!-- # HOW TO BUILD YOUR CREDIT SCORE STARTING WITH SECURED CREDIT CARDS -->
+![image of credit card](/assets/images/creditcards.jpg)
 
 ### Why do you need a credit score?
 

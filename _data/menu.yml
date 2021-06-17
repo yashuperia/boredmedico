@@ -4,7 +4,7 @@
 entries:
   - title: navigation
     entries:
-      - title: <a href='/about.html'>about me</a>
+      - title: <a href='/about.html'>about</a>
       - title: <a href='/archive.html'>archive</a>
   - title: Recent posts
     post_list:
