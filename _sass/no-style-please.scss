@@ -1,8 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow&family=IBM+Plex+Mono&family=Inter&family=JetBrains+Mono&family=Literata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500&family=Inter:wght@300;400&family=JetBrains+Mono:wght@300;400&family=Literata:wght@300;400&display=swap');
 /*
     font-family: 'Barlow', sans-serif;
-
-    font-family: 'IBM Plex Mono', monospace;
 
     font-family: 'Inter', sans-serif;
 
@@ -36,23 +34,24 @@ html, body { background: #f8f9fa; }
 html { height: 100%; }
 
 a {
-  color: #84a34a;
+  color: #245d8f;
 }
 a:hover {
-  color: #336c86;
+  color: #5684b6;
 }
 
 h1 {
-    text-align: center;
+    //text-align: center;
     text-transform: Uppercase;
-    font-family: 'Inter', monospace;
+    //font-family: 'Inter', monospace;
 }
 
 body {
   color: black;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 18px;
-  line-height: 1.4;
+  font-family: 'Inter', monospace;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 1.5;
   margin: 0;
   min-height: 100%;
 }
@@ -71,11 +70,21 @@ li { margin: 0.4rem 0; }
 
 .w {
   width: fit-content;
-  max-width: 640px;
+  max-width: 700px;
   margin: 0 auto;
   padding: 4rem 2rem;
 }
 
+#home {
+    margin: 0em 0em 1.5em 0em;
+}
+
+.card {
+    padding: 5px 20px 5px 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: rgba(149, 157, 165, 0.5) 0px 3px 5px;
+}
 hr {
   text-align: center;
   border: 0;
@@ -136,8 +145,20 @@ img {
 @media (max-width : 574px){
     body {
         font-size: 16px;
-        line-height: 1.2;
+        line-height: 1.3;
         margin: 0;
         min-height: 100%;
+    }
+    .w {
+    width: fit-content;
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 2rem 1rem;
+    }
+    .card {
+    padding: 1px 12px 5px 12px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: rgba(149, 157, 165, 0.5) 0px 3px 5px;
     }
 }
